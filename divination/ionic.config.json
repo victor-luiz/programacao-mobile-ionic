@@ -1,0 +1,7 @@
+{
+  "name": "divination",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
