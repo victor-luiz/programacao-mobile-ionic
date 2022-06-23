@@ -1,0 +1,7 @@
+{
+  "name": "aula4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
